@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 import './App.css'
-import Components from './Components/Task3'
+
 import Counter from './Components/Task4'
 import UserProfile from './Components/Task5'
 import MyComponent from './Components/Task6'
